@@ -1,5 +1,4 @@
-
-
+* Java_ex02
 ```
 /**
  * @(#)Java_ex02.java
