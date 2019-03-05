@@ -12,5 +12,5 @@
 ## 2.回傳值型態、參數型態、名稱
 https://programming.im.ncnu.edu.tw/J_index.html
 
-## 3.
+## 3.Java.util.scanner
 https://dotblogs.com.tw/freedom42408/archive/2013/11/20/130586.aspx
