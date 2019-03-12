@@ -85,3 +85,4 @@ public class Scanner_test {
     }
 }
 ```
+https://blog.xuite.net/sky1208227/pen/8816873-%E3%80%8EJava%E3%80%8F%E8%B3%87%E6%96%99%E8%BD%89%E5%9E%8B
