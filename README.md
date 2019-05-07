@@ -7,7 +7,8 @@
 ## 更細分來說，物件導向程式設計將物件的資料與方法「至少」區分為三種等級： 
 * public	 ：公用等級
 * private	 ：私用等級
-* protected：保護等級（註：Java的封裝等級還需要考量到package的影響，留待第11章說明）
+* protected  ：保護等級（註：Java的封裝等級還需要考量到package的影響，留待第11章說明）
+* package    ：修飾子
 
 ## 2.回傳值型態、參數型態、名稱
 https://programming.im.ncnu.edu.tw/J_index.html
