@@ -8,7 +8,7 @@
 * public	 ：公用等級
 * private	 ：私用等級
 * protected  ：保護等級（註：Java的封裝等級還需要考量到package的影響，留待第11章說明）
-* package    ：修飾子
+* package    ：修飾字
 
 ## 2.回傳值型態、參數型態、名稱
 https://programming.im.ncnu.edu.tw/J_index.html
