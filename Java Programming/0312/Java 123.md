@@ -59,3 +59,11 @@ public class CC {
 
 }
 ```
+```
+A
+AA
+AAA
+B
+BB
+BBB
+```
